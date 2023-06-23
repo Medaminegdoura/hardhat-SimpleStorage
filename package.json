@@ -8,5 +8,15 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@nomicfoundation/hardhat-verify": "^1.0.1",
+    "hardhat": "^2.15.0",
+    "solidity-coverage": "^0.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.2.0",
+    "hardhat-gas-reporter": "^1.0.9"
+  }
 }
